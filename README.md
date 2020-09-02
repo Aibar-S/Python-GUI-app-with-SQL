@@ -1,7 +1,7 @@
 # Python-GUI-app-with-SQL
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
