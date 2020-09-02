@@ -27,7 +27,7 @@ App can do the following:
   - fpdf
 
 ## Appearance of the app
-The app look like on the picture below:
+The app looks like on the picture below:
 
 <p align="center">
   <img src="./img/app.PNG" alt="Size Limit CLI" width="738">
