@@ -25,3 +25,12 @@ App can do the following:
   - pymysql
   - pandastable
   - fpdf
+
+
+
+
+
+
+<p align="center">
+  <img src="./img/app.PNG" alt="Size Limit CLI" width="738">
+</p>
