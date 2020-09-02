@@ -4,7 +4,7 @@
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Installation](#installation)
-- [Features](#features)
+- [Appearance of the app](#appearance-of-the-app)
 
 
 ## About The Project
@@ -26,10 +26,8 @@ App can do the following:
   - pandastable
   - fpdf
 
-
-
-
-
+## Appearance of the app
+The app look like on the picture below:
 
 <p align="center">
   <img src="./img/app.PNG" alt="Size Limit CLI" width="738">
